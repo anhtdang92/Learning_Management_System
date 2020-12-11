@@ -1,0 +1,4 @@
+Lienar Algebra | Math 2307 | 80 | 90 | 78 | B
+Discrete Math | Math 2305 | 90 | 92 | 86 | A
+Software Engineering | Cs 3321 | 83 | 90 | 80 | B
+Visual Basic | Cs 1408 | 92 | 91 | 92 | A
